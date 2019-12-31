@@ -38,7 +38,7 @@ steps:
         - master
         - develop
     depends_on:
-      - test
+      - build
 
   - name: slack
     image: plugins/slack
