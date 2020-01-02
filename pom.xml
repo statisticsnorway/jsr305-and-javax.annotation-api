@@ -4,7 +4,7 @@
 
     <groupId>no.ssb.jpms</groupId>
     <artifactId>jsr305-and-javax.annotation-api</artifactId>
-    <version>1.1</version>
+    <version>1.2-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>jsr305-and-javax.annotation-api</name>
