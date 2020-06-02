@@ -4,7 +4,7 @@
 
     <groupId>no.ssb.jpms</groupId>
     <artifactId>jsr305-and-javax.annotation-api</artifactId>
-    <version>1.2-SNAPSHOT</version>
+    <version>1.2</version>
     <packaging>jar</packaging>
 
     <name>jsr305-and-javax.annotation-api</name>
@@ -38,7 +38,7 @@
         <connection>scm:git:git://github.com/statisticsnorway/jsr305-and-javax.annotation-api</connection>
         <developerConnection>scm:git:git@github.com:statisticsnorway/jsr305-and-javax.annotation-api</developerConnection>
         <url>https://github.com/statisticsnorway/jsr305-and-javax.annotation-api/tree/master</url>
-        <tag>HEAD</tag>
+        <tag>jsr305-and-javax.annotation-api-1.2</tag>
     </scm>
 
     <dependencies>
